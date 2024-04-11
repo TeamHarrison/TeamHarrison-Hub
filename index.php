@@ -160,7 +160,7 @@
   <!-- Copyright Section -->
   <section class="copyright py-4 text-center text-white">
     <div class="container">
-      <small>Copyright &copy; TeamHarrison 2023</small>
+      <small>Copyright &copy; TeamHarrison <?=date("Y");?></small>
     </div>
   </section>
 
